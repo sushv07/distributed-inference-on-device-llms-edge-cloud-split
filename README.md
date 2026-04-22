@@ -178,6 +178,8 @@ Evaluation tasks simulate intelligent assistant interaction patterns:
 
 ## 📂 Repository Structure
 
+``` text
+
 distributed-llm-edge-cloud/
 │
 ├── experiments/
@@ -200,7 +202,7 @@ distributed-llm-edge-cloud/
 ├── .gitignore
 └── README.md
 
-
+```
 ---
 
 ## ▶️ Run the Project
