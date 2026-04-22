@@ -65,11 +65,8 @@ Edge Inference (DistilGPT2)
 Confidence Evaluation
 ↓
 Routing Decision
-┌──────────────┬──────────────┐
-│ Edge Output  │ Cloud Output │
-│ Returned     │ Escalation   │
-└──────────────┴──────────────┘
-
+├── Return Edge Output (low latency)
+└── Escalate to Cloud Model (GPT-4o-mini)
 
 
 ### Modules
