@@ -57,6 +57,8 @@ This repository showcases practical experience with:
 ## 🏗 System Architecture
 
 The inference pipeline consists of three modules:
+
+```text
 User Prompt
   ↓
 Edge Inference (DistilGPT2)
