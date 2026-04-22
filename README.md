@@ -57,16 +57,15 @@ This repository showcases practical experience with:
 ## 🏗 System Architecture
 
 The inference pipeline consists of three modules:
-
 User Prompt
-↓
+  ↓
 Edge Inference (DistilGPT2)
-↓
+  ↓
 Confidence Evaluation
-↓
+  ↓
 Routing Decision
-├── Return Edge Output (low latency)
-└── Escalate to Cloud Model (GPT-4o-mini)
+  ├── Return Edge Output (low latency)
+  └── Escalate to Cloud Model (GPT-4o-mini)
 
 
 ### Modules
