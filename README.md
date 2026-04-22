@@ -68,7 +68,7 @@ Confidence Evaluation
 Routing Decision
   ├── Return Edge Output (low latency)
   └── Escalate to Cloud Model (GPT-4o-mini)
-
+```
 
 ### Modules
 
